@@ -1,3 +1,5 @@
+**First version of an AI Document Chatbot (RAG system)
+**
 <img width="1249" height="810" alt="Screenshot 2026-03-13 at 11 49 48 PM" src="https://github.com/user-attachments/assets/56d54137-0131-4a87-b2cb-a2b37461ae85" />
 
 <img width="1237" height="791" alt="Screenshot 2026-03-13 at 11 54 20 PM" src="https://github.com/user-attachments/assets/a0ef45d6-ecee-426f-bacb-cbfad0d4bbb6" />
