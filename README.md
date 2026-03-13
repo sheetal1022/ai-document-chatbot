@@ -1,6 +1,6 @@
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f8fa5ddd-e3ed-4caa-8cbc-1d929151537b" />
+<img width="1249" height="810" alt="Screenshot 2026-03-13 at 11 49 48 PM" src="https://github.com/user-attachments/assets/56d54137-0131-4a87-b2cb-a2b37461ae85" />
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/15cc35c0-45e1-4ec9-9ad4-196649ab2647" />
+<img width="1237" height="791" alt="Screenshot 2026-03-13 at 11 54 20 PM" src="https://github.com/user-attachments/assets/a0ef45d6-ecee-426f-bacb-cbfad0d4bbb6" />
 
 --------------------------------------------------
 ai-document-chatbot
