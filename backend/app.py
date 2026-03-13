@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-API_KEY = "AIzaSyDy4X5qOxPGxcZyhi5ic8rrB-ghdO1lBHQ"
+API_KEY = "PASTE YOUR API KEY"
 
 app = FastAPI()
 
